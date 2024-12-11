@@ -1,3 +1,3 @@
 # Sujit-Kumar-Pradhan
-Coding Interview University
+Coding Interview University.
 Author-sujit kumar pradhan
